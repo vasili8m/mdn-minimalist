@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/mdn/mdn-minimalist/compare/v0.8.1...v1.0.0) (2021-04-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove notecards from minimalist
+
+### Code Refactoring
+
+* remove notecards from minimalist ([0b57f6e](https://www.github.com/mdn/mdn-minimalist/commit/0b57f6e1ac33a90e385114a71361cd3a405d58aa)), closes [#590](https://www.github.com/mdn/mdn-minimalist/issues/590)
+
 ### [0.8.1](https://www.github.com/mdn/mdn-minimalist/compare/v0.8.0...v0.8.1) (2021-04-15)
 
 
